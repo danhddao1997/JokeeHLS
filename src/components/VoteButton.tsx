@@ -55,7 +55,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   button: {
-    minWidth: sWidth / 4,
+    minWidth: sWidth / 3,
     minHeight: 40,
     padding: 8,
     alignItems: 'center',

@@ -38,17 +38,15 @@ export default Content;
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    paddingHorizontal: 16,
-    paddingVertical: '4%',
+    paddingVertical: '10%',
+    paddingHorizontal: 32,
     justifyContent: 'space-between',
   },
   joke: {
     color: '#757575',
-    fontSize: 15,
   },
   voteRow: {
     flexDirection: 'row',
-    marginHorizontal: 40,
     flexWrap: 'wrap',
   },
   noJokeContainer: {

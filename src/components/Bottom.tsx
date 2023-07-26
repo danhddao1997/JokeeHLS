@@ -18,16 +18,17 @@ const styles = StyleSheet.create({
     borderTopWidth: 1,
     borderTopColor: '#ebebeb',
     padding: 16,
+    paddingTop: 4,
   },
   warningText: {
     color: '#969696',
     textAlign: 'center',
-    marginBottom: 12,
-    fontSize: 12,
+    marginBottom: 10,
+    fontSize: 11,
   },
   copyrightText: {
     color: '#646464',
     textAlign: 'center',
-    fontSize: 16,
+    fontSize: 14,
   },
 });

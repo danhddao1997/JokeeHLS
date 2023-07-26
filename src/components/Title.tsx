@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
   container: {
     alignItems: 'center',
     justifyContent: 'center',
-    minHeight: 200,
+    minHeight: 180,
     padding: 16,
     backgroundColor: '#29B363',
   },
@@ -31,8 +31,9 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 20,
     marginBottom: 24,
+    fontWeight: '500',
   },
   subtitle: {
-    fontSize: 16,
+    fontSize: 12,
   },
 });
